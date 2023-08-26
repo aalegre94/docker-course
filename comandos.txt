@@ -1,0 +1,5 @@
+docker build .
+docker run image-id
+docker ps 
+docker stop name-container
+docker run -p x:y image-id
