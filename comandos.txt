@@ -1,3 +1,4 @@
+construi una imagen
 docker build .
 docker run image-id
 docker ps 
